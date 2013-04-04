@@ -1,0 +1,4 @@
+confs
+=====
+
+Configuration files' examples.
